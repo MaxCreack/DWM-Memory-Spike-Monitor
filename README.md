@@ -2,6 +2,9 @@
 
 Small Windows utility that watches `dwm.exe` for large memory jumps and writes timestamped events to `dwm_spikes.csv`.
 
+I created this tool to diagnose the persistent issues I had with the Dynamic Window Manager process, it helped get to the root of the problem by diagnosing which exact process was the biggest culprit.
+
+
 <img width="1422" height="710" alt="image" src="https://github.com/user-attachments/assets/c082e40e-cbda-443a-9b5b-fd2101a36d92" />
 
 
