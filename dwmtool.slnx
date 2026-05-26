@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dwmtool/dwmtool.vcxproj" Id="a9af9806-9e2e-4065-b7b2-f2345fcb8df9" />
+</Solution>
