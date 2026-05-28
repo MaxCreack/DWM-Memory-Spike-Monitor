@@ -1,4 +1,4 @@
-<img width="2966" height="68" alt="image" src="https://github.com/user-attachments/assets/01d6a088-de28-4b8b-bdbe-efb17c75d329" /># DWM Memory Spike Monitor
+# DWM Memory Spike Monitor
 
 Small Windows utility that watches `dwm.exe` for large memory jumps and writes timestamped events to `dwm_spikes.csv`.
 
